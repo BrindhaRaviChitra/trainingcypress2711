@@ -20,5 +20,8 @@
   "homepage": "https://github.com/BrindhaRaviChitra/trainingcypress2711#readme",
   "devDependencies": {
     "cypress": "^15.7.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
